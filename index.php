@@ -5,6 +5,7 @@
     <title>4eachblog 掲示板</title>
     <link rel="stylesheet" type="text/css" href="./style.css">
 </head>
+    
 <body>
     <div class="logo"><img src="4eachblog_logo.jpg"></div>
     <header>
